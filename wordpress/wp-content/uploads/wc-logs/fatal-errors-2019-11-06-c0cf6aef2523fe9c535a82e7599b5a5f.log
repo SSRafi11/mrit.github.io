@@ -1,0 +1,14 @@
+2019-11-06T05:22:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\widgets\mailchimp.php on line 8
+
+2019-11-06T05:22:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\widgets\social.php on line 9
+
+2019-11-06T05:22:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\widgets\social.php on line 9
+
+2019-11-06T05:23:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\widgets\social.php on line 9
+
+2019-11-06T05:22:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\widgets\social.php on line 9
+
+2019-11-06T05:23:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\widgets\social-share.php on line 9
+
+2019-11-06T05:45:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\option.php on line 131
+
